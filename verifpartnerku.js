@@ -1,3 +1,4 @@
+<style>
 #internetku{
 width:100%;
 height:auto;
@@ -22,3 +23,4 @@ text-align:left;
 color:#1e90ff;
 font-weight:bold;
 }
+</style>
