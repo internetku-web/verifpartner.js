@@ -1,0 +1,2 @@
+# verifpartner.js
+Verifikasi Partner
